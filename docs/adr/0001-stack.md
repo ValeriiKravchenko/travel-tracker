@@ -8,7 +8,7 @@ Travel Tracker is a portfolio project for the US job market. It has to show the 
 
 ## Decision
 
-- Backend: Java 21, Spring Boot 3, Spring Data JPA, Spring Security.
+- Backend: Java 21, Spring Boot 4, Spring Data JPA, Spring Security.
 - Database: PostgreSQL with PostGIS, schema managed by Flyway.
 - Frontend: React, TypeScript, Vite, Tailwind CSS, MapLibre.
 - Local environment: Docker Compose.
